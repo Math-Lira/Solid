@@ -1,3 +1,10 @@
 ## Projeto utilizando Solid
 
-Meu gato é preto com branco e cinza
+Pojeto de envio de email utilizando:
+
+- typescript
+- express
+  -nodemailer
+  -uuidv4
+
+Estrutura de pastas por funcionalidades.
